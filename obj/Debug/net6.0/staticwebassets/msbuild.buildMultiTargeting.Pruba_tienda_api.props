@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pruba_tienda_api.props" />
+</Project>

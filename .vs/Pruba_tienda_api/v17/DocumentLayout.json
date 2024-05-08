@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E54D5B-D654-45E5-9C1E-AF621E174EE6}|Pruba_tienda_api.csproj|c:\\users\\diego\\documents\\tienda api\\pruba_tienda_api\\services\\login\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E54D5B-D654-45E5-9C1E-AF621E174EE6}|Pruba_tienda_api.csproj|solutionrelative:services\\login\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E54D5B-D654-45E5-9C1E-AF621E174EE6}|Pruba_tienda_api.csproj|c:\\users\\diego\\documents\\tienda api\\pruba_tienda_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E54D5B-D654-45E5-9C1E-AF621E174EE6}|Pruba_tienda_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E54D5B-D654-45E5-9C1E-AF621E174EE6}|Pruba_tienda_api.csproj|c:\\users\\diego\\documents\\tienda api\\pruba_tienda_api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E54D5B-D654-45E5-9C1E-AF621E174EE6}|Pruba_tienda_api.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E54D5B-D654-45E5-9C1E-AF621E174EE6}|Pruba_tienda_api.csproj|c:\\users\\diego\\documents\\tienda api\\pruba_tienda_api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E54D5B-D654-45E5-9C1E-AF621E174EE6}|Pruba_tienda_api.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E54D5B-D654-45E5-9C1E-AF621E174EE6}|Pruba_tienda_api.csproj|c:\\users\\diego\\documents\\tienda api\\pruba_tienda_api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E54D5B-D654-45E5-9C1E-AF621E174EE6}|Pruba_tienda_api.csproj|solutionrelative:controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E54D5B-D654-45E5-9C1E-AF621E174EE6}|Pruba_tienda_api.csproj|c:\\users\\diego\\documents\\tienda api\\pruba_tienda_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3E54D5B-D654-45E5-9C1E-AF621E174EE6}|Pruba_tienda_api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:17:45.039Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\Services\\Login\\Queries\\LoginQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Login\\Queries\\LoginQuery.cs",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\Services\\Login\\Queries\\LoginQuery.cs",
+              "RelativeToolTip": "Services\\Login\\Queries\\LoginQuery.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwDoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:00:45.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:55:43.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:51:43.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:51:39.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\tienda api\\Pruba_tienda_api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T06:24:31.669Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
